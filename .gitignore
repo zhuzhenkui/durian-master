@@ -1,0 +1,10 @@
+__pycache__
+.idea
+.vscode
+_build
+test
+
+
+*.pyc
+*.out
+*.javac
